@@ -1,0 +1,14 @@
+# Directories
+StudIt/target/
+target/
+bin/
+.settings/
+
+# Files
+.project
+.classpath
+studit.iml
+/.idea/
+.class
+
+/target/
